@@ -8,7 +8,7 @@ Install deps
 
 Set reg.ru user and password in lets-encrypt-regru.rb
 
-Download dehydrated and use like this:
+Download dehydrated https://github.com/lukas2511/dehydrated and use like this:
 
 ```./dehydrated --cron --domain my.domain.example.com --hook ./lets-encrypt-regru.rb --challenge dns-01```
 
