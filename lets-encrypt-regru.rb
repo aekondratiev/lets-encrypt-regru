@@ -1,5 +1,7 @@
 #!/usr/bin/env ruby
 
+# Based on https://gist.github.com/joshgarnett/02920846fea35f738d3370fd991bb0e0
+
 require 'reg_api2'
 
 RegApi2.username = 'test'
